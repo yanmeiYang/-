@@ -1,4 +1,4 @@
-h1 $state
+-- $state
 - $state.go('contact.detail') will go to the 'contact.detail' state
 - $state.go('^') will go to a parent state.
 - $state.go('^.sibling') will go to a sibling state.
